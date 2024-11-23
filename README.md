@@ -55,8 +55,6 @@ Este projeto apresenta duas abordagens para implementar polimorfismo em Java: **
   Ideal para situações onde há uma clara hierarquia de classes.
 
 ### Polimorfismo por Interface
-- **Desacoplamento:**  
-  As classes que implementam a interface `EmitirSom` são independentes e podem herdar de outras classes.
 
 - **Flexibilidade na Implementação:**  
   Uma classe pode implementar múltiplas interfaces, proporcionando maior versatilidade.
@@ -74,6 +72,8 @@ Este projeto demonstra como o polimorfismo em Java pode ser implementado de dife
 - **Reutilização de Código**
 - **Melhor Organização do Software**
 
-Cada abordagem exemplifica um cenário de uso, permitindo ao desenvolvedor escolher a mais adequada para sua aplicação. As técnicas apresentadas são fundamentais para a programação orientada a objetos e amplamente utilizadas no desenvolvimento de software profissional.
+Cada abordagem dos exemplos acima tem suas funções definidas sendo que depende do autor do projeto utilizar cada uma delas sendo mais indicado o uso hierarquico em casos onde dependem de herança entre classes
+já o uso por interfaçe e mais indicado onde uma calase pode implementar outras interfaçes sendo mais fácil trazer outras possibilidades e pontos de visão diferentes
+
 
 
