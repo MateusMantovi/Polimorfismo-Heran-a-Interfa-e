@@ -1,5 +1,5 @@
-// Classe Cachorro que implementa a interface EmitirSom
-public class Cachorro implements EmitirSom {
+// Subclasse Cachorro que implementa o método fazerSom
+public class Cachorro extends Animal {
   @Override
   public void fazerSom() {
       System.out.println("Au au!");

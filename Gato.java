@@ -1,7 +1,7 @@
-// Classe Gato que implementa a interface EmitirSom
-public class Gato implements EmitirSom {
-    @Override
-    public void fazerSom() {
-        System.out.println("Miau!");
-    }
+// Subclasse Gato que implementa o método fazerSom
+public class Gato extends Animal {
+  @Override
+  public void fazerSom() {
+      System.out.println("Miau!");
+  }
 }
