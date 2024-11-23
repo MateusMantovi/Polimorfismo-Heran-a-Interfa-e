@@ -21,11 +21,11 @@ Este projeto demonstra o uso de **polimorfismo** em Java por meio de dois métod
 - **`Zoologico.java`**: Classe principal (`main`) que executa o exemplo.
 
 ### Polimorfismo por Interface
-- **`EmitirSom.java`**: Interface base.
-- **`Cachorro.java`**: Classe que implementa `EmitirSom`.
-- **`Gato.java`**: Classe que implementa `EmitirSom`.
-- **`Papagaio.java`**: Classe que implementa `EmitirSom`.
-- **`Zoologico.java`**: Classe principal (`main`) que executa o exemplo.
+- **`EmitirSomint.java`**: Interface base.
+- **`Cachorroint.java`**: Classe que implementa `EmitirSom`.
+- **`Gatoint.java`**: Classe que implementa `EmitirSom`.
+- **`Papagaioint.java`**: Classe que implementa `EmitirSom`.
+- **`Zoologicoint.java`**: Classe principal (`main`) que executa o exemplo.
 
 ---
 
