@@ -10,11 +10,6 @@ Este projeto demonstra o uso de **polimorfismo** em Java por meio de dois métod
 2. **Polimorfismo por Interface**:  
    Utiliza uma interface `EmitirSom` que é implementada pelas classes `Cachorro`, `Gato` e `Papagaio`.
 
-## Pré-requisitos
-- **Java Development Kit (JDK)** instalado.
-- Um ambiente de desenvolvimento integrado (IDE), como **IntelliJ IDEA** ou **Eclipse**.
-
----
 
 ## Estrutura do Projeto
 
