@@ -1,4 +1,4 @@
-# Polimorfismo-Heran-a-Interfa-e
+# Polimorfismo-Herança/Interfaçe
 # Polimorfismo em Java
 
 ## Descrição
